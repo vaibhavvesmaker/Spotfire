@@ -1,4 +1,4 @@
-# Spotfire
+# Spotfire - Algorithmic Machine Learning
 
 
 
